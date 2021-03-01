@@ -8,3 +8,13 @@
 The enemies are spawning from the infections. You have three lives and you lose one whenever an enemy gets in contact with you, but you can recover it by stunning enemies with your biolazer gun and phagocytizing the enemy (Eating it alive!).
 
 The infections (purple dots on the minimap) will continue to spawn as enemies spread a chemical gas around the map (yellow dots). You can put out these chemicals before they turn into new infections.
+
+### Créditos: 
+
+Guilherme Silva
+
+Eric Henrique (https://qnomon.itch.io)
+
+Vinícius Gomes
+
+& myself :>
