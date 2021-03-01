@@ -1,5 +1,5 @@
 # Micrombat
- Jogo desenvolvido 100% em Python.
+## Jogo desenvolvido 100% em Python.
  
 ---Several viruses and bacteria are invading and trying to take control by spreading their infections across the body. The rest of the white blood cells have fallen already, but you have a secret weapon at your disposal... the Biolazer gun!---
 
