@@ -9,6 +9,9 @@ The enemies are spawning from the infections. You have three lives and you lose 
 
 The infections (purple dots on the minimap) will continue to spawn as enemies spread a chemical gas around the map (yellow dots). You can put out these chemicals before they turn into new infections.
 
+### Para jogar:
+Você DEVE ter Python 3 ou maior instalado na sua máquina. Basta baixar o arquivo compactado, descompactar e rodar Micrombat.py para testar o jogo.
+
 ### Créditos: 
 
 Guilherme Silva
